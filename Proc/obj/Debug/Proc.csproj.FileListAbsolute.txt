@@ -1,0 +1,9 @@
+D:\projects\c#\Proc\Proc\bin\Debug\Proc.exe.config
+D:\projects\c#\Proc\Proc\bin\Debug\Proc.exe
+D:\projects\c#\Proc\Proc\bin\Debug\Proc.pdb
+D:\projects\c#\Proc\Proc\bin\Debug\ProcLib.dll
+D:\projects\c#\Proc\Proc\bin\Debug\ProcLib.pdb
+D:\projects\c#\Proc\Proc\obj\Debug\Proc.csprojAssemblyReference.cache
+D:\projects\c#\Proc\Proc\obj\Debug\Proc.csproj.CopyComplete
+D:\projects\c#\Proc\Proc\obj\Debug\Proc.exe
+D:\projects\c#\Proc\Proc\obj\Debug\Proc.pdb

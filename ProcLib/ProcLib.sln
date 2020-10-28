@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcLib", "ProcLib.csproj", "{5E002876-C759-42BD-9E06-79D77EC9ECDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcLibUnitTest", "..\ProcLibUnitTest\ProcLibUnitTest.csproj", "{24D7A20D-CA6A-4139-AF43-AF99BE262C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proc", "..\Proc\Proc.csproj", "{DF23CB5F-F27B-4FE5-BB0C-F2EF09A82160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E002876-C759-42BD-9E06-79D77EC9ECDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E002876-C759-42BD-9E06-79D77EC9ECDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E002876-C759-42BD-9E06-79D77EC9ECDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E002876-C759-42BD-9E06-79D77EC9ECDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D7A20D-CA6A-4139-AF43-AF99BE262C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D7A20D-CA6A-4139-AF43-AF99BE262C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D7A20D-CA6A-4139-AF43-AF99BE262C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D7A20D-CA6A-4139-AF43-AF99BE262C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF23CB5F-F27B-4FE5-BB0C-F2EF09A82160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF23CB5F-F27B-4FE5-BB0C-F2EF09A82160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF23CB5F-F27B-4FE5-BB0C-F2EF09A82160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF23CB5F-F27B-4FE5-BB0C-F2EF09A82160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0458CCB4-9642-482D-949E-F971E1882A14}
+	EndGlobalSection
+EndGlobal

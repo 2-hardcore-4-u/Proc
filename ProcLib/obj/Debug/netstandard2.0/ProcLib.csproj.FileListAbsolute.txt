@@ -1,0 +1,7 @@
+D:\projects\c#\Proc\ProcLib\bin\Debug\netstandard2.0\ProcLib.deps.json
+D:\projects\c#\Proc\ProcLib\bin\Debug\netstandard2.0\ProcLib.dll
+D:\projects\c#\Proc\ProcLib\bin\Debug\netstandard2.0\ProcLib.pdb
+D:\projects\c#\Proc\ProcLib\obj\Debug\netstandard2.0\ProcLib.AssemblyInfoInputs.cache
+D:\projects\c#\Proc\ProcLib\obj\Debug\netstandard2.0\ProcLib.AssemblyInfo.cs
+D:\projects\c#\Proc\ProcLib\obj\Debug\netstandard2.0\ProcLib.dll
+D:\projects\c#\Proc\ProcLib\obj\Debug\netstandard2.0\ProcLib.pdb
